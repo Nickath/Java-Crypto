@@ -1,6 +1,8 @@
 /*
-	Program to apply Encryption and Decryption of hexadecimal text Using DES algorithm with random generated S boxes and sage implementation to
-	testify and compare the strength of Random generated S-boxes to differential cryptanalysis with the recommended ones using Java
+	Program to apply Encryption and Decryption of hexadecimal text Using DES algorithm with random generated S boxes
+	and sage implementation to
+	testify and compare the strength of pseudo-Random generated S-boxes against differential cryptanalysis 
+	with the recommended ones using Java
 
 	Author:Nick Athanasiou  https://github.com/Nickath
 	References: Manav Sanghavi		http://www.pracspedia.com/INS/DES-java.html
